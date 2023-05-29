@@ -1,0 +1,4 @@
+matplotlib
+tkcalender
+pillow
+urllib3==1.1
